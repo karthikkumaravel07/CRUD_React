@@ -5,6 +5,9 @@ https://social-react-app-362c3.web.app/
 
 this is the live page of this project. 
 
+
+reference video - https://youtu.be/f55qeKGgB_M?si=ReRfiSK10WrE6nfY
+
 ## Available Scripts
 
 
